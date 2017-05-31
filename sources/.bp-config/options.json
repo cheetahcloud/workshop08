@@ -1,0 +1,5 @@
+{
+  "WEB_SERVER": "httpd",
+  "PHP_VERSION": "5.5.23",
+  "PHP_EXTENSIONS": ["bz2", "zlib", "curl","mcrypt"]
+}
